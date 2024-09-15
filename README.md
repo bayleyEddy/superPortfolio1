@@ -1,1 +1,1 @@
-This project looks at the students' ability to successfully complete and upload a GitHub repository.
+For this lab, you will practice creating a GitHub repository and committing your code files. The goal is to ensure that your repository setup is correct and that you are comfortable with making commits and managing your project through GitHub. 
